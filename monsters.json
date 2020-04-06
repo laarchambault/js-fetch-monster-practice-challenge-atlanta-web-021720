@@ -6005,6 +6005,36 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Argonot",
+      "age": "9923",
+      "description": "In the deep bog...",
+      "id": 1002
+    },
+    {
+      "name": "Cricket",
+      "age": "1",
+      "description": "Frightens small children with its terrifying noises",
+      "id": 1003
+    },
+    {
+      "name": "Cricket",
+      "age": ".01",
+      "description": "Able to terrify small children with its ferocious noises",
+      "id": 1004
+    },
+    {
+      "name": "Boogy Man",
+      "age": "93923",
+      "description": "Hides until children are unattended, then sneaks out, turns them into rutabaga pie, and delivers them to their parents ",
+      "id": 1005
+    },
+    {
+      "name": "Troll",
+      "age": "81",
+      "description": "Lurks and makes life difficult for passers-by.",
+      "id": 1006
     }
   ]
 }
